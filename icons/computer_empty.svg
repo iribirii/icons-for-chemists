@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 166 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2420.96,-359.589)">
+        <g transform="matrix(1,0,0,1,-16.1765,0.21415)">
+            <g id="empty-computer" serif:id="empty computer" transform="matrix(1,0,0,1,-8440.54,-2070.46)">
+                <g transform="matrix(1,0,0,1,23.8212,196.784)">
+                    <g transform="matrix(0.97343,0,0,1,-239.495,178.098)">
+                        <path d="M11562.6,2067.75C11562.6,2062.41 11558.2,2058.08 11552.7,2058.08L11409.3,2058.08C11403.8,2058.08 11399.4,2062.41 11399.4,2067.75L11399.4,2159.34C11399.4,2164.68 11403.8,2169.01 11409.3,2169.01L11552.7,2169.01C11558.2,2169.01 11562.6,2164.68 11562.6,2159.34L11562.6,2067.75Z" style="fill:none;stroke:black;stroke-width:6.33px;"/>
+                    </g>
+                    <g transform="matrix(1.30675,0,0,1,-4065.55,178.098)">
+                        <rect x="11448.3" y="2187.93" width="64.274" height="11.915" style="fill:none;stroke:black;stroke-width:5.37px;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-544.151,178.098)">
+                        <rect x="11459.3" y="2169.01" width="42.586" height="18.927" style="fill:none;stroke:black;stroke-width:6.25px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.839799,0,0,0.807179,1318.54,782.418)">
+                    <path d="M11562.6,2074.02C11562.6,2069.79 11561,2065.74 11558.1,2062.75C11555.2,2059.76 11551.3,2058.08 11547.3,2058.08C11516.2,2058.08 11445.8,2058.08 11414.7,2058.08C11410.6,2058.08 11406.7,2059.76 11403.8,2062.75C11401,2065.74 11399.4,2069.79 11399.4,2074.02C11399.4,2095.09 11399.4,2132 11399.4,2153.07C11399.4,2157.29 11401,2161.35 11403.8,2164.34C11406.7,2167.33 11410.6,2169.01 11414.7,2169.01C11445.8,2169.01 11516.2,2169.01 11547.3,2169.01C11551.3,2169.01 11555.2,2167.33 11558.1,2164.34C11561,2161.35 11562.6,2157.29 11562.6,2153.07C11562.6,2132 11562.6,2095.09 11562.6,2074.02Z" style="stroke:black;stroke-width:7.59px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

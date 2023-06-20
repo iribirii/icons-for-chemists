@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 166 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1864.04,-860.245)">
+        <g transform="matrix(1,0,0,1,-16.4483,-21.609)">
+            <g id="MEP" transform="matrix(0.409035,0,0,0.141699,1084.06,857.004)">
+                <g id="bonds" transform="matrix(1.45088,0,0,4.18817,0,0)">
+                    <path d="M1391.77,180.452L1431.64,191.135L1442.32,231.005L1431.64,191.135L1460.83,161.948L1501.96,161.948L1531.15,191.135L1520.46,231.005L1531.15,191.135L1571.02,180.452L1531.15,191.135L1501.96,161.948L1501.96,120.814L1531.15,91.628L1501.96,120.814L1460.83,120.814L1431.64,91.628L1460.83,120.814L1460.83,161.948" style="fill:none;stroke:black;stroke-width:10.53px;"/>
+                </g>
+                <g id="atomos">
+                    <g transform="matrix(2.32349,0,0,6.70709,-1259.83,-261.313)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1302.18,-383.553)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1200.15,-89.0365)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1157.81,33.2027)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(-1.16174,-5.80851,2.0122,-3.35354,3665.46,9799.11)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(-1.16174,5.80851,-2.0122,-3.35354,4199.21,-7308.56)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1200.15,-261.313)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1157.81,-383.553)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1259.83,-89.0365)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(-1.16174,5.80851,-2.0122,-3.35354,4012.49,-7096.83)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(-1.16174,-5.80851,2.0122,-3.35354,3478.74,9587.39)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                    <g transform="matrix(2.32349,0,0,6.70709,-1302.18,33.2027)">
+                        <circle cx="1454.41" cy="114.402" r="8.623" style="stroke:black;stroke-width:3.9px;"/>
+                    </g>
+                </g>
+                <g id="mep1" transform="matrix(1.45088,0,0,4.18817,0,0)">
+                    <clipPath id="_clip1">
+                        <rect x="1342.01" y="41.874" width="278.757" height="103.912"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <path d="M1484.53,74.202C1491.6,55.326 1509.82,41.874 1531.15,41.874C1558.61,41.874 1580.9,64.168 1580.9,91.628C1580.9,108.147 1572.83,122.798 1560.42,131.849C1572.1,129.298 1584.73,130.921 1595.89,137.364C1619.67,151.094 1627.83,181.548 1614.1,205.329C1604.76,221.512 1587.67,230.461 1570.21,230.201C1570.47,247.662 1561.52,264.75 1545.34,274.093C1523.66,286.609 1496.44,280.935 1481.39,261.818C1466.35,280.935 1439.12,286.609 1417.44,274.093C1401.26,264.75 1392.31,247.662 1392.57,230.201C1375.11,230.461 1358.02,221.512 1348.68,205.329C1334.95,181.548 1343.11,151.094 1366.89,137.364C1378.05,130.921 1390.68,129.298 1402.36,131.849C1389.95,122.798 1381.88,108.147 1381.88,91.628C1381.88,64.168 1404.18,41.874 1431.64,41.874C1452.97,41.874 1471.18,55.326 1478.25,74.202C1479.32,74.601 1480.36,75.035 1481.39,75.504C1482.42,75.035 1483.47,74.601 1484.53,74.202Z" style="fill:url(#_Radial2);"/>
+                    </g>
+                </g>
+                <g id="mep2" transform="matrix(1.45088,0,0,4.18817,0,0)">
+                    <clipPath id="_clip3">
+                        <rect x="1342.01" y="145.786" width="278.757" height="134.974"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip3)">
+                        <path d="M1484.53,74.202C1491.6,55.326 1509.82,41.874 1531.15,41.874C1558.61,41.874 1580.9,64.168 1580.9,91.628C1580.9,108.147 1572.83,122.798 1560.42,131.849C1572.1,129.298 1584.73,130.921 1595.89,137.364C1619.67,151.094 1627.83,181.548 1614.1,205.329C1604.76,221.512 1587.67,230.461 1570.21,230.201C1570.47,247.662 1561.52,264.75 1545.34,274.093C1523.66,286.609 1496.44,280.935 1481.39,261.818C1466.35,280.935 1439.12,286.609 1417.44,274.093C1401.26,264.75 1392.31,247.662 1392.57,230.201C1375.11,230.461 1358.02,221.512 1348.68,205.329C1334.95,181.548 1343.11,151.094 1366.89,137.364C1378.05,130.921 1390.68,129.298 1402.36,131.849C1389.95,122.798 1381.88,108.147 1381.88,91.628C1381.88,64.168 1404.18,41.874 1431.64,41.874C1452.97,41.874 1471.18,55.326 1478.25,74.202C1479.32,74.601 1480.36,75.035 1481.39,75.504C1482.42,75.035 1483.47,74.601 1484.53,74.202Z" style="fill:url(#_Radial4);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.82665e-12,82.8653,-190.671,4.20308e-12,1481.39,145.786)"><stop offset="0" style="stop-color:rgb(67,242,13);stop-opacity:0.3"/><stop offset="0.62" style="stop-color:rgb(96,205,13);stop-opacity:0.3"/><stop offset="0.82" style="stop-color:rgb(166,113,13);stop-opacity:0.3"/><stop offset="1" style="stop-color:rgb(242,13,13);stop-opacity:0.3"/></radialGradient>
+        <radialGradient id="_Radial4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.82665e-12,82.8653,-190.671,4.20308e-12,1481.39,145.786)"><stop offset="0" style="stop-color:rgb(67,242,13);stop-opacity:0.3"/><stop offset="0.62" style="stop-color:rgb(58,222,50);stop-opacity:0.3"/><stop offset="0.82" style="stop-color:rgb(36,174,142);stop-opacity:0.3"/><stop offset="1" style="stop-color:rgb(13,121,242);stop-opacity:0.3"/></radialGradient>
+    </defs>
+</svg>
